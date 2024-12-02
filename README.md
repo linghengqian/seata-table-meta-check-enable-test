@@ -9,8 +9,8 @@
 ```shell
 sdk install java 23-open
 
-git clone git@github.com:linghengqian/seata-client-re-create-test.git
-cd ./seata-client-re-create-test/
+git clone git@github.com:linghengqian/seata-table-meta-check-enable-test.git
+cd ./seata-table-meta-check-enable-test/
 sdk use java 23-open
 ./mvnw -T 1C clean test
 ```
